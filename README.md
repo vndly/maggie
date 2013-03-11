@@ -20,8 +20,8 @@ Inter-process communication
 Supported Browsers
 ==================
 
-Google Chrome
-Mozilla Firefox
-Opera
-Safari
-Internet Explorer 
+* Google Chrome
+* Mozilla Firefox
+* Opera
+* Safari
+* Internet Explorer 
