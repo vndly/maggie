@@ -26,7 +26,12 @@ Supported Browsers
 * Safari
 * Internet Explorer
 
+Demo
+----
+
+[Demo](http://zeronest.com/games/maggie/demo)
+
 Screenshots
 -----------
 
-![screenshot](http://zeronest.com/screenshot.png)
+![screenshot](http://zeronest.com/games/maggie/demo/screenshot.png)
