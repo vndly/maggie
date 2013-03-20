@@ -26,4 +26,7 @@ Supported Browsers
 * Safari
 * Internet Explorer
 
+Screenshots
+-----------
+
 ![screenshot](http://zeronest.com/screenshot.png)
