@@ -11,7 +11,7 @@ Maggie programming is very similar to languages such as DIV or Fenix Project, wh
 Features
 --------
 
-* Emulate multithreaded programming ActionScript 3.0 (due threading is not supported in this language)
+* Emulate multithreaded programming in ActionScript 3.0 (due threading is not supported in this language)
 * Graphics handling
 * Sounds management
 * Keyboard and mouse input
